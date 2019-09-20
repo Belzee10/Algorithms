@@ -1,8 +1,17 @@
 {
-  "name": "Algorithms",
+  "name": "algorithms",
   "version": "1.0.0",
   "description": "Algorithms for personal training",
   "main": "index.js",
   "author": "belzee92@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
 }
