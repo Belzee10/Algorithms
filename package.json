@@ -1,0 +1,8 @@
+{
+  "name": "Algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms for personal training",
+  "main": "index.js",
+  "author": "belzee92@gmail.com",
+  "license": "MIT"
+}
