@@ -1,4 +1,4 @@
 {
-    "*.js": "test"
+    "*.js": "jest --bail --findRelatedTests"
 }
 
