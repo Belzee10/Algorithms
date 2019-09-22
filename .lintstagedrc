@@ -1,4 +1,4 @@
 {
-    "*.js": "jest --bail --findRelatedTests"
+    "*.js": "test:filesChanged"
 }
 

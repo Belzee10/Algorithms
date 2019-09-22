@@ -6,7 +6,8 @@
   "author": "belzee92@gmail.com",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:filesChanged": "jest --bail --findRelatedTests"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
