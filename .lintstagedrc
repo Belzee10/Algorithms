@@ -1,4 +1,4 @@
 {
-    "*.js": "test:filesChanged"
+    "*.js": "yarn test:filesChanged"
 }
 
