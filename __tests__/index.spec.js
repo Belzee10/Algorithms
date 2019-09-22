@@ -1,5 +1,5 @@
-import lol from "../index.js";
+import lol from '../index.js';
 
-test("should pass", () => {
+it('should pass', () => {
   expect(lol(1, 2)).toBe(3);
 });
